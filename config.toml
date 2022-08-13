@@ -1,0 +1,12 @@
+languageCode = "ru-ru"
+defaultContentLanguage = "ru"
+title = "«Алгебры Ли, алгебраические группы и теория инвариантов»"
+baseURL = "http://lie-seminar.netlify.com/"
+
+sectionPagesMenu = "main"    
+
+[taxonomies]
+	academic_year = "academic_year"
+
+[blackfriday]
+    fractions = false
