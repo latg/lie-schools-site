@@ -8,12 +8,12 @@
 <table style="width: 100%; height: 100%;">
 <tbody>
 
-{{partial "header-logos.html"}}
+{{partial "header.html"}}
 
 {{partial "header-nav.html" .}}
 
 <tr>
-{{block "menu" .}}{{partial "nav-left.html" .}}{{end}}
+{{block "menu" .}}{{partial "menu.html" .}}{{end}}
 <td colspan="3" rowspan="1" style="width: 84%; vertical-align: top; height: 350px;">
 {{block "content" .}}{{.Content}}{{end}}
 </td>

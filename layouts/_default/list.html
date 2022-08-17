@@ -3,3 +3,9 @@
 <hr class="page-header-hr" /><br />
 {{.Content}}
 {{end}}
+
+
+{{define "menu"}}
+{{$path := path.Join .Section "menu.html"}}
+{{partial $path .}}
+{{end}}
