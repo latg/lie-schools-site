@@ -4,8 +4,8 @@
 {{.Content}}
 {{end}}
 
-
 {{define "menu"}}
 {{$path := path.Join .Section "menu.html"}}
-{{partial $path .}}
+{{if templates.Exists (path.Join "partials" $path)}}{{partial $path .}}
+{{else}}{{partial "menu" .}}{{end}}
 {{end}}
