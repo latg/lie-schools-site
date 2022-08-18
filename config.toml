@@ -7,4 +7,5 @@ sectionPagesMenu = "main"
 
 
 [blackfriday]
-    fractions = false
+  angledQuotes = true
+  fractions = false

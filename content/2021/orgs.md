@@ -5,7 +5,6 @@ title = "Программный и организационный комитет
 
 <h4 style="text-align: left;">Программный комитет
 школы-конференции<strong></strong></h4>
-<p style="text-align: left; line-height: 0px">
 <strong> И.В.Аржанцев </strong> &mdash; доктор физико-математических наук, профессор, декан факультета компьютерных наук&nbsp;НИУ&nbsp;ВШЭ,<br/>
 
 <strong> <p style="border: 3px solid black; display: inline-block;">В.А.Артамонов</p> </strong> &mdash; доктор физико-математических наук, профессор, заведующий кафедрой высшей алгебры механико-математического факультета&nbsp;МГУ,<br style="margin: -2px 0" />

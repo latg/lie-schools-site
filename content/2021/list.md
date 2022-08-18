@@ -3,7 +3,6 @@ date = "2022-08-13T00:29:30+03:00"
 title = "Зарегистрированные участники"
 +++
 <table>
-<tr><td>1</td><td>YbEriv YbEriv YbEriv</td><td>Moscow</td><td>YbEriv</td></tr>
 <tr><td>2</td><td>Yusupov Bakhtiyor Bakhrambek o'g'li</td><td>Uzbekistan</td><td>V.I.Romanovskiy Institute of Mathematics of Uzbekistan Academy of Sciences, Tashkent, Uzbekistan.</td></tr>
 <tr><td>3</td><td>Адашев Жобир Адашев</td><td>Ташкент</td><td>Институт математики В.И.Романовского</td></tr>
 <tr><td>4</td><td>Акилова Сабина Жахоновна</td><td>Санкт-Петербург</td><td>СПбГУ</td></tr>
@@ -20,7 +19,6 @@ title = "Зарегистрированные участники"
 <tr><td>15</td><td>Викулова Анастасия Вадимовна</td><td>Москва</td><td>факультет математики ВШЭ</td></tr>
 <tr><td>16</td><td>Вифлянцев Виктор Павлович</td><td>Таганрог</td><td>РАН Юж.отд. г.Ростов н,д</td></tr>
 <tr><td>17</td><td>Воскресенская Галина </td><td>Самара</td><td>Самарский университет</td></tr>
-<tr><td>18</td><td>Выплачено AAAhalgebra.math.msu.suBBB Выплачено AAAhalgebra.math.msu.suBBB Выплачено AAAhalgebra.math.msu.suBBB</td><td>Выплачено AAAhalgebra.math.msu.suBBB</td><td>Выплачено AAAhalgebra.math.msu.suBBB</td></tr>
 <tr><td>19</td><td>Гайфуллин Сергей Александрович</td><td>Москва</td><td>МГУ, ВШЭ</td></tr>
 <tr><td>20</td><td>Гаража Александра Андреевна</td><td>Москва</td><td>МГУ</td></tr>
 <tr><td>21</td><td>Гвоздевский Павел Борисович</td><td>Санкт-Петербург</td><td>СПбГУ</td></tr>

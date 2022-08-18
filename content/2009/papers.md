@@ -2,9 +2,9 @@
 date = "2022-08-13T00:29:30+03:00"
 title = "Тезисы и записки лекций"
 +++
-<a href="docs/Thesis_full_2009.pdf">Тезисы</a>
+<a href="../docs/Thesis_full_2009.pdf">Тезисы</a>
 докладов, прочитанных на первой школе-конференции.<br />
-<a href="docs/Artamonov.pdf">Записки лекции Артамонова В.А. "Конечномерные полупростые алгебры Хопфа".</a><br />
-<a href="docs/Sheinman.pdf">Записки лекции Шейнмана О.К. "Алгебры операторов Лакса и интегрируемые системы".</a><br />
+<a href="../docs/Artamonov.pdf">Записки лекции Артамонова В.А. "Конечномерные полупростые алгебры Хопфа".</a><br />
+<a href="../docs/Sheinman.pdf">Записки лекции Шейнмана О.К. "Алгебры операторов Лакса и интегрируемые системы".</a><br />
 <br />
-<img style="width: 747px; height: 498px;" src="../main_files/Thesis.png" alt="" /><br />
+<img style="width: 747px; height: 498px;" src="/main_files/Thesis.png" alt="" /><br />

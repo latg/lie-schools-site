@@ -2,6 +2,7 @@
 date = "2022-08-13T00:29:30+03:00"
 title = "Программа конференции"
 +++
+<div>
 <table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2"><tbody><tr style="font-family: Century Gothic;" align="center"><td colspan="4" rowspan="1" style="vertical-align: top; text-align: left;"><big><span style="color: rgb(153, 51, 0); font-weight: bold;">Понедельник,
 31
 января</span></big></td>
@@ -2941,3 +2942,4 @@ ad-нильпотентных
       </td>
       <td colspan="7" rowspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Закрытие
 школы-конференции</td></tr></tbody></table><br />
+</div>

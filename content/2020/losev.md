@@ -1,6 +1,6 @@
 ﻿+++
 date = "2022-08-13T00:29:30+03:00"
-title = "<a href="2020.lectures.shtml.html">Лекционные курсы</a>"
+title = '<a href="/2020/lectures">Лекционные курсы</a>'
 +++
 
 <center><a name="losev" />Иван Лосев (Йельский Университет, Нью-Хейвен, США)</center><br>

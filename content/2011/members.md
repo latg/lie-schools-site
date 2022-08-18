@@ -2,6 +2,7 @@
 date = "2022-08-13T00:29:30+03:00"
 title = "Зарегистрированные участники"
 +++
+<div>
 <table style="table-layout: fixed;"><tbody><tr><td rowspan="2" style="width: 5%; vertical-align: top;">1</td>
 						<td rowspan="2" style="width: 40%; vertical-align: top;">
 							Абрамов Ярослав Владимирович
@@ -1829,3 +1830,4 @@ title = "Зарегистрированные участники"
 					<tr>
 						<td style="vertical-align: top;">Санкт-Петербург</td>
 						<td style="vertical-align: top;">СПбГУ</td></tr></tbody></table><br />
+</div>
