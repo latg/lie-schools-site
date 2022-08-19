@@ -1,14 +1,12 @@
 <tr>
 <td class="conference-date" style="vertical-align: top; text-align: center;">
-<span><big><big><a href="/2021">21 августа - 26 августа 2021 г., Самара</a><br /></big></big></span>
-<a href="/2020">27 января - 1 февраля 2020 г., Москва</a><br />
-<a href="/2018">18 - 26 августа 2018 г., Самара</a><br />
-<a href="/2017">30 января - 4 февраля 2017 г., Москва</a><br />
-<a href="/2015">22 июня - 27 июня 2015 г., Самара</a><br />
-<a href="/2014">27 января - 1 февраля 2014 г., Москва</a><br />
-<a href="/2012">24 июня - 1 июля 2012 г., Тольятти</a><br />
-<a href="/2011">31 января – 5 февраля 2011 г., Москва</a><br />
-<a href="/2009">8 июня - 15 июня 2009 г., Самара</a><br />
+{{- $currentPage := . -}}
+{{- range sort .Site.Menus.main "URL" "desc" -}}
+{{- if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) -}}
+<span><big><big><a href="{{ .URL }}">{{ .Name }}</a></big></big></span><br />
+{{- else -}}
+<a href="{{ .URL }}">{{ .Name }}</a><br />
+{{- end -}}
+{{- end -}}
 </td>
-
 </tr>

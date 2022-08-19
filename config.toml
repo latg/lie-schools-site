@@ -1,9 +1,9 @@
 languageCode = "ru-ru"
 defaultContentLanguage = "ru"
 title = "«Алгебры Ли, алгебраические группы и теория инвариантов»"
-baseURL = "http://lie-seminar.netlify.com/"
+baseURL = "https://lie-school.ru/"
 
-sectionPagesMenu = "main"    
+# sectionPagesMenu = "main"    
 
 
 [blackfriday]
