@@ -24,7 +24,7 @@ title = "Расписание"
 <hr style="width: 100%; height: 2px;" /><br />
 <table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2">
 <tbody>
-<tr style="font-family: Century Gothic;" align="center">
+<tr align="center">
 <td colspan="3" rowspan="1" style="vertical-align: top; text-align: left;"><big><span style="color: rgb(153, 51, 0); font-weight: bold;">Понедельник,
 25 июня<br />
 </span></big></td>
@@ -38,65 +38,65 @@ title = "Расписание"
 </td>
 </tr>
 <tr>
-<td style="vertical-align: top; width: 13%; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">время<br />
+<td style="vertical-align: top; width: 13%; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">время<br />
 </td>
-<td style="vertical-align: top; font-family: Century Gothic; width: 8%; font-weight: bold; text-align: center;"><span style="color: rgb(51, 51, 153);">ауд.</span><br />
+<td style="vertical-align: top; width: 8%; font-weight: bold; text-align: center;"><span style="color: rgb(51, 51, 153);">ауд.</span><br />
 </td>
-<td style="vertical-align: top; font-family: Century Gothic; width: 8%; color: rgb(51, 51, 153); font-weight: bold; text-align: left;"><br />
+<td style="vertical-align: top; width: 8%; color: rgb(51, 51, 153); font-weight: bold; text-align: left;"><br />
 </td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">09:30
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">09:30
 -
 10:00</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">Актовый
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">Актовый
 зал</td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Открытие
-школы-конференции.</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Открытие
+школы-конференции</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; width: 10%; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">10:00
+<td style="vertical-align: top; width: 10%; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">10:00
 -
 10:30</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); width: 10%; text-align: center;">
+<td style="vertical-align: top; color: rgb(0, 0, 0); width: 10%; text-align: center;">
 Музей</td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Посещение
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Посещение
 музея</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">10:40
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">10:40
 -
 11:40</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">418
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">418
 </td>
-<td colspan="1" rowspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Лекция
+<td colspan="1" rowspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Лекция
 </td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">11:40
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">11:40
 -
 12:00</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">
 Буфет</td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Кофе-брейк</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Кофе-брейк</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">12:00
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">12:00
 -
 13:00</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">418
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">418
 </td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">13:00
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">13:00
 - 14:00</td>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center;">Столовая<br />
+<td style="vertical-align: top; text-align: center;">Столовая<br />
 </td>
-<td colspan="1" rowspan="1" style="vertical-align: top; font-family: Century Gothic; text-align: left;">Обед</td>
+<td colspan="1" rowspan="1" style="vertical-align: top; text-align: left;">Обед</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">14:30
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">14:30
 - 15:30</td>
 <td style="text-align: center;">418</td>
 <td style="text-align: left;">Доклад
@@ -158,53 +158,53 @@ title = "Расписание"
 </td>
 </tr>
 <tr>
-<td style="vertical-align: top; width: 13%; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">время<br />
+<td style="vertical-align: top; width: 13%; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">время<br />
 </td>
-<td style="vertical-align: top; font-family: Century Gothic; width: 8%; font-weight: bold; text-align: center;"><span style="color: rgb(51, 51, 153);">ауд.</span><br />
+<td style="vertical-align: top; width: 8%; font-weight: bold; text-align: center;"><span style="color: rgb(51, 51, 153);">ауд.</span><br />
 </td>
-<td style="vertical-align: top; font-family: Century Gothic; width: 8%; color: rgb(51, 51, 153); font-weight: bold; text-align: left;"><br />
+<td style="vertical-align: top; width: 8%; color: rgb(51, 51, 153); font-weight: bold; text-align: left;"><br />
 </td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">09:30
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">09:30
 -
 10:30</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">418</td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">418</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; width: 10%; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">10:40
+<td style="vertical-align: top; width: 10%; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">10:40
 -
 11:40</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); width: 10%; text-align: center;">
+<td style="vertical-align: top; color: rgb(0, 0, 0); width: 10%; text-align: center;">
 418</td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">11:40
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">11:40
 -
 12:00</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">
 Буфет</td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Кофе-брейк</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Кофе-брейк</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">12:00
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">12:00
 -
 13:00</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">418
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">418
 </td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">13:00
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">13:00
 - 14:00</td>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center;">Столовая<br />
+<td style="vertical-align: top; text-align: center;">Столовая<br />
 </td>
-<td colspan="1" rowspan="1" style="vertical-align: top; font-family: Century Gothic; text-align: left;">Обед</td>
+<td colspan="1" rowspan="1" style="vertical-align: top; text-align: left;">Обед</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">15:00
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">15:00
 - 16:00</td>
 <td style="text-align: center;">418</td>
 <td style="text-align: left;">Доклад
@@ -252,7 +252,7 @@ title = "Расписание"
 <hr style="width: 100%; height: 2px;" /><br />
 <table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2">
 <tbody>
-<tr style="font-family: Century Gothic;" align="center">
+<tr align="center">
 <td colspan="3" rowspan="1" style="vertical-align: top; text-align: left;"><big><span style="color: rgb(153, 51, 0); font-weight: bold;">Среда,
 27 июня<br />
 </span></big></td>
@@ -266,53 +266,53 @@ title = "Расписание"
 </td>
 </tr>
 <tr>
-<td style="vertical-align: top; width: 13%; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">время<br />
+<td style="vertical-align: top; width: 13%; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">время<br />
 </td>
-<td style="vertical-align: top; font-family: Century Gothic; width: 8%; font-weight: bold; text-align: center;"><span style="color: rgb(51, 51, 153);">ауд.</span><br />
+<td style="vertical-align: top; width: 8%; font-weight: bold; text-align: center;"><span style="color: rgb(51, 51, 153);">ауд.</span><br />
 </td>
-<td style="vertical-align: top; font-family: Century Gothic; width: 8%; color: rgb(51, 51, 153); font-weight: bold; text-align: left;"><br />
+<td style="vertical-align: top; width: 8%; color: rgb(51, 51, 153); font-weight: bold; text-align: left;"><br />
 </td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">09:30
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">09:30
 -
 10:30</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">418</td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">418</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; width: 10%; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">10:40
+<td style="vertical-align: top; width: 10%; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">10:40
 -
 11:40</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); width: 10%; text-align: center;">
+<td style="vertical-align: top; color: rgb(0, 0, 0); width: 10%; text-align: center;">
 418</td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">11:40
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">11:40
 -
 12:00</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">
 Буфет</td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Кофе-брейк</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Кофе-брейк</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">12:00
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">12:00
 -
 13:00</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">418
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">418
 </td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">13:00
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">13:00
 - 14:00</td>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center;">Столовая<br />
+<td style="vertical-align: top; text-align: center;">Столовая<br />
 </td>
-<td colspan="1" rowspan="1" style="vertical-align: top; font-family: Century Gothic; text-align: left;">Обед</td>
+<td colspan="1" rowspan="1" style="vertical-align: top; text-align: left;">Обед</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">14:00
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">14:00
 - 18:00</td>
 <td style="text-align: center;"></td>
 <td style="text-align: left;"><em>Обзорная
@@ -356,53 +356,53 @@ title = "Расписание"
 </td>
 </tr>
 <tr>
-<td style="vertical-align: top; width: 13%; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">время<br />
+<td style="vertical-align: top; width: 13%; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">время<br />
 </td>
-<td style="vertical-align: top; font-family: Century Gothic; width: 8%; font-weight: bold; text-align: center;"><span style="color: rgb(51, 51, 153);">ауд.</span><br />
+<td style="vertical-align: top; width: 8%; font-weight: bold; text-align: center;"><span style="color: rgb(51, 51, 153);">ауд.</span><br />
 </td>
-<td style="vertical-align: top; font-family: Century Gothic; width: 8%; color: rgb(51, 51, 153); font-weight: bold; text-align: left;"><br />
+<td style="vertical-align: top; width: 8%; color: rgb(51, 51, 153); font-weight: bold; text-align: left;"><br />
 </td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">09:30
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">09:30
 -
 10:30</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">418</td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">418</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; width: 10%; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">10:40
+<td style="vertical-align: top; width: 10%; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">10:40
 -
 11:40</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); width: 10%; text-align: center;">
+<td style="vertical-align: top; color: rgb(0, 0, 0); width: 10%; text-align: center;">
 418</td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">11:40
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">11:40
 -
 12:00</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">
 Буфет</td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Кофе-брейк</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Кофе-брейк</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">12:00
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">12:00
 -
 13:00</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">418
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">418
 </td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">13:00
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">13:00
 - 14:00</td>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center;">Столовая<br />
+<td style="vertical-align: top; text-align: center;">Столовая<br />
 </td>
-<td colspan="1" rowspan="1" style="vertical-align: top; font-family: Century Gothic; text-align: left;">Обед</td>
+<td colspan="1" rowspan="1" style="vertical-align: top; text-align: left;">Обед</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">14:30
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">14:30
 - 15:30</td>
 <td style="text-align: center;">418</td>
 <td style="text-align: left;">Доклад
@@ -464,53 +464,53 @@ title = "Расписание"
 </td>
 </tr>
 <tr>
-<td style="vertical-align: top; width: 13%; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">время<br />
+<td style="vertical-align: top; width: 13%; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">время<br />
 </td>
-<td style="vertical-align: top; font-family: Century Gothic; width: 8%; font-weight: bold; text-align: center;"><span style="color: rgb(51, 51, 153);">ауд.</span><br />
+<td style="vertical-align: top; width: 8%; font-weight: bold; text-align: center;"><span style="color: rgb(51, 51, 153);">ауд.</span><br />
 </td>
-<td style="vertical-align: top; font-family: Century Gothic; width: 8%; color: rgb(51, 51, 153); font-weight: bold; text-align: left;"><br />
+<td style="vertical-align: top; width: 8%; color: rgb(51, 51, 153); font-weight: bold; text-align: left;"><br />
 </td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">09:30
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">09:30
 -
 10:30</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">418</td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">418</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; width: 10%; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">10:40
+<td style="vertical-align: top; width: 10%; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">10:40
 -
 11:40</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); width: 10%; text-align: center;">
+<td style="vertical-align: top; color: rgb(0, 0, 0); width: 10%; text-align: center;">
 418</td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">11:40
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">11:40
 -
 12:00</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">
 Буфет</td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Кофе-брейк</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Кофе-брейк</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">12:00
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">12:00
 -
 13:00</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">418
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">418
 </td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">13:00
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">13:00
 - 13:30</td>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center;">Столовая<br />
+<td style="vertical-align: top; text-align: center;">Столовая<br />
 </td>
-<td colspan="1" rowspan="1" style="vertical-align: top; font-family: Century Gothic; text-align: left;">Обед</td>
+<td colspan="1" rowspan="1" style="vertical-align: top; text-align: left;">Обед</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">13:00
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">13:00
 - 20:00</td>
 <td style="text-align: center;"></td>
 <td style="text-align: left;"><em>Экскурсия&nbsp;
@@ -542,53 +542,53 @@ title = "Расписание"
 </td>
 </tr>
 <tr>
-<td style="vertical-align: top; width: 13%; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">время<br />
+<td style="vertical-align: top; width: 13%; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">время<br />
 </td>
-<td style="vertical-align: top; font-family: Century Gothic; width: 8%; font-weight: bold; text-align: center;"><span style="color: rgb(51, 51, 153);">ауд.</span><br />
+<td style="vertical-align: top; width: 8%; font-weight: bold; text-align: center;"><span style="color: rgb(51, 51, 153);">ауд.</span><br />
 </td>
-<td style="vertical-align: top; font-family: Century Gothic; width: 8%; color: rgb(51, 51, 153); font-weight: bold; text-align: left;"><br />
+<td style="vertical-align: top; width: 8%; color: rgb(51, 51, 153); font-weight: bold; text-align: left;"><br />
 </td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">09:30
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">09:30
 -
 10:30</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">418</td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">418</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; width: 10%; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">10:40
+<td style="vertical-align: top; width: 10%; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">10:40
 -
 11:40</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); width: 10%; text-align: center;">
+<td style="vertical-align: top; color: rgb(0, 0, 0); width: 10%; text-align: center;">
 418</td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">11:40
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">11:40
 -
 12:00</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">
 Буфет</td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Кофе-брейк</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Кофе-брейк</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">12:00
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">12:00
 -
 13:00</td>
-<td style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: center;">418
+<td style="vertical-align: top; color: rgb(0, 0, 0); text-align: center;">418
 </td>
-<td rowspan="1" colspan="1" style="vertical-align: top; font-family: Century Gothic; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
+<td rowspan="1" colspan="1" style="vertical-align: top; color: rgb(0, 0, 0); text-align: left;">Лекция</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">13:00
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">13:00
 - 14:00</td>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center;">Столовая<br />
+<td style="vertical-align: top; text-align: center;">Столовая<br />
 </td>
-<td colspan="1" rowspan="1" style="vertical-align: top; font-family: Century Gothic; text-align: left;">Обед</td>
+<td colspan="1" rowspan="1" style="vertical-align: top; text-align: left;">Обед</td>
 </tr>
 <tr>
-<td style="vertical-align: top; font-family: Century Gothic; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">14:00
+<td style="vertical-align: top; text-align: center; color: rgb(102, 0, 204); font-weight: bold;">14:00
 - 15:00</td>
 <td style="text-align: center;">418</td>
 <td style="text-align: left;">Доклад
