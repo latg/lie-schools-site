@@ -1,24 +1,9 @@
 {{define "menu"}}
 <td class="menu" style="width: 15%; vertical-align: top;">
 <ul class="menu">
-    <a href="/2021">2021 год</a><br />
-    <br />
-    <a href="/2020">2020 год</a><br />
-    <br />
-    <a href="/2018">2018 год</a><br />
-    <br />
-    <a href="/2017">2017 год</a><br />
-    <br />
-    <a href="/2015">2015 год</a><br />
-    <br />
-    <a href="/2014">2014 год</a><br />
-    <br />
-    <a href="/2012">2012 год</a><br />
-    <br />
-    <a href="/2011">2011 год</a><br />
-    <br />
-    <a href="/2009">2009 год</a><br />
-    <br />
+{{- range sort .Site.Menus.main "URL" "desc" }}
+<a href="{{ .URL }}">{{trim .URL "/"}} год</a><br /><br />
+{{ end -}}
 <a href="/contacts">Контакты</a>
 </ul>
 </td>
