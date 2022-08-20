@@ -23,6 +23,16 @@ table {
   font-size: 11pt;
   font-family: Century Gothic,serif;
 }
+.conference-long-date {
+  font-size: 16pt;
+  color: #003333;
+  font-family: Century Gothic,serif;
+}
+.accepting-organization-name {
+  font-size: 16pt;
+  color: #003333;
+  font-family: Century Gothic,serif;
+}
 .menu {
   background: #f0f0f0 none repeat scroll 0% 50%;
 }
@@ -63,11 +73,6 @@ table {
   color: black;
   font-style: normal;
   text-decoration: none;
-}
-.accepting-organization-name {
-  font-size: 16pt;
-  color: #003333;
-  font-family: Century Gothic,serif;
 }
 .professor-name {
   color: #003465;

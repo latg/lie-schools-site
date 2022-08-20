@@ -1,12 +1,18 @@
 <tr>
-<td class="conference-date" style="vertical-align: top; text-align: center;">
+<td class="conference-date" style="text-align: center;">
 {{- $currentPage := . -}}
-{{- range sort .Site.Menus.main "URL" "desc" -}}
+{{- range sort .Site.Menus.main "URL" -}}
 {{- if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) -}}
-<span><big><big><a href="{{ .URL }}">{{ .Name }}</a></big></big></span><br />
+<span><big><big><a href="{{ .URL }}">{{ trim .URL  "/"}}</a></big></big></span>&nbsp;
 {{- else -}}
-<a href="{{ .URL }}">{{ .Name }}</a><br />
+<a href="{{ .URL }}">{{ trim .URL  "/"}}</a>&nbsp;
 {{- end -}}
 {{- end -}}
+{{- range.Site.Menus.main -}}
+{{- if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) -}}
+<br/><br/><big class="conference-long-date">{{ .Name}}</big>
+{{- end -}}
+{{- end -}}
+
 </td>
 </tr>
