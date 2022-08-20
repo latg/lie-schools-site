@@ -3,7 +3,17 @@ date = "2022-08-13T00:29:30+03:00"
 title = "Лекционные курсы"
 +++
 
-<table style="text-align: left; width: 100%;" cellpadding="2" cellspacing="2">
+Лекторы:
+
+Роман Авдеев (НИУ ВШЭ)
+
+Сергей Гайфуллин (МГУ/НИУ ВШЭ)
+
+Тарас Панов (МГУ/НИУ ВШЭ)
+
+Виктор Петров (СПбГУ)
+
+<!--table style="text-align: left; width: 100%;" cellpadding="2" cellspacing="2">
  <tbody>
 <tr>
 <td><big><big>Название
@@ -40,4 +50,4 @@ title = "Лекционные курсы"
 </tr>
 
  </tbody>
-</table>
+</table-->
