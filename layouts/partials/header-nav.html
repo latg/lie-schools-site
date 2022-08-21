@@ -1,15 +1,15 @@
 <tr>
 <td class="conference-date" style="text-align: center;">
-{{- $currentPage := . -}}
+{{- $section := .Section -}}
 {{- range sort .Site.Menus.main "URL" -}}
-{{- if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) -}}
+{{- if eq .Page.Section $section -}}
 <span><big><big><a href="{{ .URL }}">{{ trim .URL  "/"}}</a></big></big></span>&nbsp;
 {{- else -}}
 <a href="{{ .URL }}">{{ trim .URL  "/"}}</a>&nbsp;
 {{- end -}}
 {{- end -}}
 {{- range.Site.Menus.main -}}
-{{- if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) -}}
+{{- if eq .Page.Section $section -}}
 <br/><br/><big class="conference-long-date">{{ .Name}}</big>
 {{- end -}}
 {{- end -}}
