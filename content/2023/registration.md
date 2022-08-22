@@ -7,4 +7,4 @@ title = "Регистрация"
 
 Срок окончания регистрации и приёма тезисов докладов &mdash; 9 января 2023 года.
 
-Шаблон тезисов: [tex-файл](/2023/Abstract_example.tex), [pdf-файл](/2023/Abstract_example.pdf).
+Шаблон тезисов: <a href="/2023/Abstract_example.tex" download>tex-файл</a>, <a href="/2023/Abstract_example.pdf" download>pdf-файл</a>.
