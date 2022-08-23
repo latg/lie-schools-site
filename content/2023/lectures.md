@@ -3,7 +3,7 @@ date = "2022-08-13T00:29:30+03:00"
 title = "Лекционные курсы"
 +++
 
-<table class="lectors">
+<table class="lectors"><col class="col60"><col class="col40">
  <tbody>
 <tr>
 <td><big>Название курса</big>
