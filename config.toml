@@ -9,3 +9,32 @@ baseURL = "https://lie-school.ru/"
 [blackfriday]
   angledQuotes = true
   fractions = false
+  
+  
+[menu]
+[[menu.menu_2023]]
+  name = 'О школе'
+  url = '/2023'
+  weight = -50
+[[menu.menu_2023]]
+  name = 'Регистрация'
+  url = '/2023/registration'
+  weight = -40
+[[menu.menu_2023]]
+  name = 'Лекционные курсы'
+  url = '/2023/lectures'
+  weight = -30
+[[menu.menu_2023]]
+  name = 'Программный и организационный комитеты'
+  url = '/2023/orgs'
+  weight = -20
+[[menu.menu_2023]]
+  name = 'Контакты'
+  url = '/2023/contacts'
+  weight = -10
+[[menu.menu_2023]]
+  name = 'На главную'
+  url = '/'
+  weight = 0
+  
+  

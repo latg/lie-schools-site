@@ -60,9 +60,18 @@ td .block {
   list-style-type: none;
 }
 .menu li {
-  padding-top: 5px;
-  padding-bottom: 5px;
+  display:block;
+  padding:5px;
 }
+.menu li.active {
+  #font-size: 125%;
+  background-color:  #ffffff
+}
+
+.menu li a {
+  display:block;
+}
+
 .menu a:link {
   color: #003333;
   text-decoration: none;
@@ -91,6 +100,13 @@ td .block {
   font-style: normal;
   text-decoration: none;
 }
+
+.content-container {
+  width: 84%; 
+  vertical-align: top; 
+  height: 350px;
+}
+
 .professor-name {
   color: #003465;
   text-decoration: none;
@@ -119,6 +135,13 @@ input, select, textarea {
    padding:5px;
    #border-spacing:10px 200px;
    #margin-bottom:10px;
+}
+
+.col-title{
+   width: 60%; 
+}
+.col-name{
+   width: 40%; 
 }
 
 .logos {

@@ -4,7 +4,8 @@ title = "Лекционные курсы"
 +++
 
 <table class="lectors">
- <tbody>
+   <col class="col-title">
+   <col class="col-name">
 <tr>
 <td><big>Название курса</big>
 <hr class="page-header-hr" /></td>
@@ -31,6 +32,4 @@ title = "Лекционные курсы"
 <td>Квадратичные формы и мотивы Чжоу</td>
 <td>Виктор Петров (СПбГУ)</td>
 </tr>
-
- </tbody>
 </table>
