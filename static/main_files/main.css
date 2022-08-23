@@ -112,6 +112,8 @@ input, select, textarea {
    text-align: left; 
    table-layout: fixed;
    width: 100%;
+  .col60 { width: 60%; }
+  .col40 { width: 40%; }
 }
 
 .lectors td {
