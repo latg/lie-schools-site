@@ -7,10 +7,14 @@
 <table style="width: 100%; height: 100%;">
 <tbody>
 
+
 <tr>
-<td colspan="1" rowspan="3"><img style="border: 0px solid ; width: 192px; height: 79px;" alt="Логотип школы" title="Логотип школы" src="/main_files/conf-logo.png" /></td>
+<td colspan="1" rowspan="3">
+<a href="/"><img style="border: 0px solid ; width: 192px; height: 79px;" alt="Логотип школы" title="Логотип школы" src="/main_files/conf-logo.png" />
+</a>
+</td>
 <td class="conference-name" style="vertical-align: top; text-align: center;">
-Школы-конференции</td>
+<a href="/" class="block">Школы-конференции</a></td>
 <td colspan="1" rowspan="3">
 {{$path := path.Join .Section "logos.html"}}
 {{if templates.Exists (path.Join "partials" $path)}}{{partial $path .}}
@@ -18,10 +22,9 @@
 </td>
 </tr>
 <tr valign="top">
-<td class="conference-name" style="vertical-align: middle; text-align: center;"> Алгебры
-Ли, алгебраические группы и теория инвариантов</td>
+<td class="conference-name" style="vertical-align: middle; text-align: center;"><a href="/" class="block">Алгебры
+Ли, алгебраические группы и теория инвариантов</a></td>
 </tr>
-
 
 {{partial "header-nav.html" .}}
 
@@ -30,7 +33,7 @@
 
 <tr>
 {{block "menu" .}}{{partial "menu.html" .}}{{end}}
-<td colspan="3" rowspan="1" style="width: 84%; vertical-align: top; height: 350px;">
+<td colspan="3" rowspan="1" class="width: 84%; vertical-align: top; height: 350px;">
 {{block "content" .}}{{.Content}}{{end}}
 </td>
 </tr>

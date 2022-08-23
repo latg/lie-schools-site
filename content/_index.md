@@ -13,3 +13,16 @@ title = "О школе"
 комбинаторики, гармонического анализа, симплектической геометрии и топологии.
 Организаторы надеются, что школы-конференции достойно продолжат лучшие традиции математических школ,
 в которых участвовало несколько поколений советских и российских ученых.
+
+<table>
+<tbody>
+<tr>
+<td align="center"><a href="https://math.hse.ru/latg/"><img style="margin: 2.5px; margin-top: 5px; width: 52px; height: 75px;" src="/main_files/atg_logo_sq.png" alt="Национальный исследовательский университет Высшая Школа Экономики" title="Национальный исследовательский университет Высшая Школа Экономики" /></a></td>
+<td align="center"><a href="http://simc.mi-ras.ru"><img style="margin: 2.5px; margin-bottom: 5px; width: 120px; height: 44px;" src="/main_files/simc-logo.png" alt="Steklov International Mathematical Center" title="Steklov International Mathematical Center" /></a></td>
+</tr>
+<tr>
+<td></td>
+<td align="center"><a href="http://ssau.ru"><img style="margin: 2.5px; margin-bottom: 5px; width: 75px; height: 75px;" src="/main_files/samu-logo.png" alt="Самарский университет" title="Самарский университет" /></a></td>
+</tr>
+</tbody>
+</table>
