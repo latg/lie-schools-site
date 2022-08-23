@@ -129,10 +129,7 @@ input, select, textarea {
    table-layout: fixed;
    width: 100%;
 }
-.lectors col {
-  .col60 { width: 60%; }
-  .col40 { width: 40%; }
-}
+
 .lectors td {
    vertical-align: top;
    padding:5px;
