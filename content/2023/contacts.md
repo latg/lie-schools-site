@@ -11,3 +11,6 @@ title = "Контакты"
     <tr><td>Панов Александр Николаевич</td><td> apanov@list.ru</td></tr>
     <tr><td>Севастьянова Виктория Владимировна</td><td> berlua@mail.ru</td></tr>-->
   </tbody></table>
+
+Адрес: Москва, Покровский бульвар, дом 11
+<div style="position:relative;overflow:hidden;"><a href="https://yandex.ru/maps/org/vysshaya_shkola_ekonomiki/1074710983/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:0px;">Высшая школа экономики</a><a href="https://yandex.ru/maps/213/moscow/category/university_college/184106140/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:14px;">ВУЗ в Москве</a><iframe src="https://yandex.ru/map-widget/v1/-/CCURnMa6cA" width="700" height="500" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe></div>
