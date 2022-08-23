@@ -110,6 +110,7 @@ input, select, textarea {
 
 .lectors {
    text-align: left; 
+   table-layout: fixed;
    width: 100%;
 }
 
