@@ -8,6 +8,7 @@ table {
   border:  none;
   width: 100%;
 }
+
 hr  {
     border: 0;
     height: 0;
@@ -39,6 +40,7 @@ td .block {
 .conference-date {
   font-size: 11pt;
   font-family: Century Gothic,serif;
+  margin-top: 100px;
 }
 .conference-long-date {
   font-size: 16pt;
@@ -124,6 +126,10 @@ input, select, textarea {
   #font-size: 110%;
 }
 
+.contacts-table tr td {
+  padding: 0.25pc;
+}
+
 .lectors {
    text-align: left; 
    table-layout: fixed;
@@ -147,7 +153,7 @@ input, select, textarea {
 .logos {
     margin-left: auto;
     margin-right: auto;
-    max-width: 400px;
+    max-width: 500px;
   display: flex;
   justify-content: center;
 }

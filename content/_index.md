@@ -15,9 +15,21 @@ title = "О школе"
 в которых участвовало несколько поколений советских и российских ученых.
 
 <div class="logos">
-<a href="http://msu.ru"><img style="margin: 2.5px; margin-bottom: 5px; width: 75px; height: 75px;" src="/main_files/msu-logo.png" alt="Московский государственный университет" title="Московский государственный университет" /></a>
-<a href="http://ssau.ru"><img style="margin: 2.5px; margin-bottom: 5px; width: 75px; height: 75px;" src="/main_files/samu-logo.png" alt="Самарский университет" title="Самарский университет" /></a>
-<a href="http://ium.mccme.ru"><img style="margin: 2.5px; margin-bottom: 5px; width: 120px; height: 50px;" src="/main_files/nmu-logo.png" alt="Независимый Московский университет" title="Независимый Московский университет" /></a>
-<a href="http://simc.mi-ras.ru"><img style="margin: 2.5px; margin-bottom: 5px; width: 120px; height: 44px;" src="/main_files/simc-logo.png" alt="Steklov International Mathematical Center" title="Steklov International Mathematical Center" /></a>
-<a href="https://math.hse.ru/latg"><img style="margin: 2.5px; margin-top: 5px; width: 52px; height: 75px;" src="/main_files/atg_logo_sq.png" alt="Национальный исследовательский университет Высшая Школа Экономики" title="Национальный исследовательский университет Высшая Школа Экономики" /></a>
+
+<a href="http://msu.ru"><img style="margin: 2.5px; margin-bottom: 5px; width: 100px; height: 100px;" src="/main_files/msu-logo.png" alt="Московский государственный университет" title="Московский государственный университет" /></a>
+<a href="http://ssau.ru"><img style="margin: 2.5px; margin-bottom: 5px; width: 100px; height: 100px;" src="/main_files/samu-logo.png" alt="Самарский университет" title="Самарский университет" /></a>
+<a href="https://math.hse.ru/latg"><img style="margin: 2.5px; margin-top: 5px; width: 90px; height: 120px;" src="/main_files/atg_logo_sq.png" alt="Национальный исследовательский университет Высшая Школа Экономики" title="Национальный исследовательский университет Высшая Школа Экономики" /></a>
+
+<table style="padding-left: 10px">
+<tr>
+<td>
+<a href="http://ium.mccme.ru"><img style="margin: 2.5px; margin-bottom: 5px; width: 110px; height: 44px;" src="/main_files/nmu-logo.png" alt="Независимый Московский университет" title="Независимый Московский университет" /></a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://simc.mi-ras.ru"><img style="margin: 2.5px; margin-bottom: 5px; width: 110px; height: 44px;" src="/main_files/simc-logo.png" alt="Steklov International Mathematical Center" title="Steklov International Mathematical Center" /></a>
+</td>
+</tr>
+</table>
 </div>

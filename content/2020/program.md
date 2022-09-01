@@ -2,12 +2,11 @@
 date = "2022-08-13T00:29:30+03:00"
 title = "Расписание"
 +++
+
 <!--222-->
 <table style="text-align: left; width: 100%;" border="1" cellpadding="1" cellspacing="0">
 <tbody>
 <!--222-->
-
-
 
 <tr height=30><td colspan=6><FONT SIZE=4><B>ПОНЕДЕЛЬНИК, 27 января</B></FONT></td></tr>
 
@@ -213,7 +212,7 @@ title = "Расписание"
 <td colspan=2>Кофе-брейк и постерная сессия: Х.&nbsp;Алхуссейн, И.&nbsp;Думанский &ndash; Е.Б.&nbsp;Фейгин, С.Н.&nbsp;Джунусов, Ю.И.&nbsp;Зайцева, И.&nbsp;Машанова-Голикова, Д.З.&nbsp;Кумаллагов, А.Ю.&nbsp;Перепечко, А.В.&nbsp;Попов, А.&nbsp;Чистопольская</td>
 </tr>
 
-<tr height=30><td colspan=6><FONT SIZE=4><B>СРЕДА, 29 февраля</B></FONT></td></tr>
+<tr height=30><td colspan=6><FONT SIZE=4><B>СРЕДА, 29 января</B></FONT></td></tr>
 
 <tr>
 <td width=10><B> 9:30</B></td>
