@@ -160,3 +160,8 @@ input, select, textarea {
 .logos a {
   flex-grow: 1;
 }
+
+.logos a img {
+  margin: 2.5px;
+  margin-bottom: 5px;
+}
