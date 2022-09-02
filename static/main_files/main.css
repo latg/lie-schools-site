@@ -33,6 +33,7 @@ td .block {
   font-size: 26pt;
   font-family: Century Gothic,serif;
   color: #333399;
+  padding-left: 28px;
 }
 .page-header-hr {
   height: 2px;
@@ -58,6 +59,7 @@ td .block {
   font-size: 16pt;
   color: #003333;
   font-family: Century Gothic,serif;
+  padding-top: 15px;
 }
 .accepting-organization-name {
   font-size: 16pt;
