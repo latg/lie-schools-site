@@ -40,8 +40,20 @@ td .block {
 .conference-nav {
   font-size: 11pt;
   font-family: Century Gothic,serif;
-  margin-top: 100px;
+  #margin-top: 100px;
+  text-align: center;
+  font-size: large; 
+  padding: 1pc;
 }
+
+.conference-nav a{
+  margin: 6px;
+}
+
+.conference-nav a.active{
+  font-size: 18pt;
+}
+
 .conference-long-date {
   font-size: 16pt;
   color: #003333;
