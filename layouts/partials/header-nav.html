@@ -1,18 +1,15 @@
-<tr>
-<td class="conference-date" style="text-align: center; font-size: large; padding-top: 1pc;">
+<tr><td class="conference-nav">
 {{- $section := .Section -}}
 {{- range sort .Site.Menus.main "URL" -}}
 {{- if eq .Page.Section $section -}}
-<span><big><big><a href="{{ .URL }}">{{ trim .URL  "/"}}</a></big></big></span>&nbsp;
+<a href="{{ .URL }}" class="active">{{ trim .URL  "/"}}</a>
 {{- else -}}
-<a href="{{ .URL }}">{{ trim .URL  "/"}}</a>&nbsp;
+<a href="{{ .URL }}">{{ trim .URL  "/"}}</a>
 {{- end -}}
 {{- end -}}
 {{- range.Site.Menus.main -}}
 {{- if eq .Page.Section $section -}}
-<br/><br/><big class="conference-long-date">{{ .Name}}</big>
+<div class="conference-long-date">{{ .Name}}</div>
 {{- end -}}
 {{- end -}}
-
-</td>
-</tr>
+</td></tr>
