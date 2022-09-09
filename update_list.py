@@ -41,8 +41,10 @@ def updateList(path="./content/2023/list.md"):
         print("<table>", file=f)
         for i in range(len(partipants)):
             p = partipants[i]
+            full_name = f"{p.surname} {p.name} {p.patronymic}".replace(
+                "-", "").strip()
             print(
-                f"<tr><td>{i+1}</td><td>{p.surname} {p.name} {p.patronymic}</td><td>{p.city}</td><td>{p.organisation}</td></tr>",
+                f"<tr><td>{i+1}</td><td>{full_name}</td><td>{p.city}</td><td>{p.organisation}</td></tr>",
                 file=f)
         print("</table>", file=f)
 
