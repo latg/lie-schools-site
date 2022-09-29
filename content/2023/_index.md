@@ -22,6 +22,18 @@ logos:
 
 <!--[Здесь](https://www.hse.ru/buildinghse/pokrovka/map) можно прочитать, как добраться до корпуса. -->
 
+<div class="poster">
+<div class="item" align="center">
+<img src="/2023/poster.jpg" width="800px" loading="lazy" typeof="foaf:Image">
+<div>
+  <a href="/2023/poster.pdf">Скачать PDF-версию постера</a>
+</div>
+
+</div>
+
+</div>
+</div>
+
 <div class="logos">
 <a href="http://ssau.ru"><img style="width: 90px; height: 90px;" src="/main_files/samu-logo.png" alt="Самарский университет" title="Самарский университет" /></a>
 <a href="https://math.hse.ru/latg/"><img style="width: 75px; height: 110px;" src="/main_files/atg_logo_sq.png" alt="Национальный исследовательский университет Высшая Школа Экономики" title="Национальный исследовательский университет Высшая Школа Экономики" /></a>
