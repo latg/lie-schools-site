@@ -23,15 +23,12 @@ logos:
 <!--[Здесь](https://www.hse.ru/buildinghse/pokrovka/map) можно прочитать, как добраться до корпуса. -->
 
 <div class="poster">
-<div class="item" align="center">
-<img src="/2023/poster.jpg" width="800px" loading="lazy" typeof="foaf:Image">
-<div>
-  <a href="/2023/poster.pdf">Скачать PDF-версию постера</a>
-</div>
-
-</div>
-
-</div>
+  <div class="item" align="center">
+    <img src="/2023/poster.jpg" width="800px" loading="lazy" typeof="foaf:Image">
+    <div>
+      <a href="/2023/poster.pdf">Скачать PDF-версию постера</a>
+    </div>
+  </div>
 </div>
 
 <div class="logos">
