@@ -10,7 +10,10 @@ class Person:
     def __init__(self, name, surname, patronymic, city, organisation):
         self.name = name
         self.surname = surname
-        self.patronymic = patronymic
+        if isinstance(patronymic, str):
+            self.patronymic = patronymic
+        else:
+            self.patronymic = ""
         self.city = city
         self.organisation = organisation
 
