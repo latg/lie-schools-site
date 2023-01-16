@@ -41,7 +41,7 @@ baseURL = "https://lie-school.ru/"
   url = '/2023/list'
   weight = -20
 [[menu.menu_2023]]
-  name = 'Контакты'
+  name = 'Расположение'
   url = '/2023/contacts'
   weight = -10
 [[menu.menu_2023]]
