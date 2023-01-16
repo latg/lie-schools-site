@@ -1,2 +1,3 @@
 /public/
 update_and_deploy.sh
+*.DS_Store
