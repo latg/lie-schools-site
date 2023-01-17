@@ -9,21 +9,22 @@ title = "Расположение"
 
 Места, где можно поесть, рядом с Покровкой:
 
-1. [Хачапури и вино](https://yandex.ru/maps/org/khachapuri_i_vino/65958839449/?ll=37.647186%2C55.759711&z=16.02)
+1. В кампусе: столовая в корпусе N (1 этаж), кафе «Груша» в корпусе S (1 этаж), кафетерий в корпусе F (1 этаж), кофейня в корпусе S (-1 этаж)
 
-2. [ТЦ "Атриум"](https://yandex.ru/profile/1010479265?no-distribution=1&source=wizbiz_new_map_single)
+2. [Хачапури и вино](https://yandex.ru/maps/org/khachapuri_i_vino/65958839449/?ll=37.647186%2C55.759711&z=16.02)
 
-3. Кафе "Груша" и столовая на Покровке
+3. [ТЦ «Атриум»](https://yandex.ru/profile/1010479265?no-distribution=1&source=wizbiz_new_map_single)
+
 
 Места, где можно поесть, рядом с МИАН:
 
-1. [Фантазёры Бистро](https://yandex.ru/maps/org/fantazyory_bistro/139051402869/?from=tabbar&ll=37.557805%2C55.694531&source=serp_navig&z=16.01)
+1. Столовая в Вычислительном Центре РАН (ул. Вавилова, д. 40)
 
-2. [Хинкальная](https://yandex.ru/maps/org/khinkalnaya/1167156601/?from=tabbar&ll=37.556969%2C55.695526&source=serp_navig&z=17)
+2. [Фантазёры Бистро](https://yandex.ru/maps/org/fantazyory_bistro/139051402869/?from=tabbar&ll=37.557805%2C55.694531&source=serp_navig&z=16.01)
 
-3. [Время поесть](https://yandex.ru/maps/org/vremya_poyest/57801395049/?from=tabbar&ll=37.562656%2C55.692609&source=serp_navig&z=16.41)
+3. [Хинкальная](https://yandex.ru/maps/org/khinkalnaya/1167156601/?from=tabbar&ll=37.556969%2C55.695526&source=serp_navig&z=17)
 
-4. Столовая на 1-ом этаже
+4. [Время поесть](https://yandex.ru/maps/org/vremya_poyest/57801395049/?from=tabbar&ll=37.562656%2C55.692609&source=serp_navig&z=16.41)
 
 
 
