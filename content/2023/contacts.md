@@ -26,6 +26,11 @@ title = "Расположение"
 
 4. [Время поесть](https://yandex.ru/maps/org/vremya_poyest/57801395049/?from=tabbar&ll=37.562656%2C55.692609&source=serp_navig&z=16.41)
 
+5. [Редимейд](https://yandex.ru/maps/213/moscow/?from=tabbar&ll=37.561946%2C55.696541&mode=poi&poi%5Bpoint%5D=37.561882%2C55.696861&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D1208085510&source=serp_navig&z=19)
+
+6. [Гудман](https://yandex.ru/maps/213/moscow/?from=tabbar&ll=37.561946%2C55.696541&mode=poi&poi%5Bpoint%5D=37.561699%2C55.696757&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D1334458145&source=serp_navig&z=19)
+
+7. [Ламаро](https://yandex.ru/maps/213/moscow/?from=tabbar&ll=37.562336%2C55.692397&mode=poi&poi%5Bpoint%5D=37.562015%2C55.692272&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D111010426281&source=serp_navig&z=18.6)
 
 
 <div align="center">
