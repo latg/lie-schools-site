@@ -9,11 +9,13 @@ title = "Расположение"
 
 Места, где можно поесть, рядом с Покровкой:
 
-1. В кампусе: [столовая в корпусе N (1 этаж)](https://www.hse.ru/buildinghse/dining/pokrov11), кафе «Груша» в корпусе S (1 этаж), кафетерий в корпусе F (1 этаж), кофейня в корпусе S (-1 этаж)
+1. [В кампусе]((https://www.hse.ru/buildinghse/dining/pokrov11)): столовая в корпусе N (1 этаж), кафе «Груша» в корпусе S (1 этаж), кофейня в корпусе F (1 этаж), кофейня в корпусе S (-1 этаж)
 
 2. [Хачапури и вино](https://yandex.ru/maps/org/khachapuri_i_vino/65958839449/?ll=37.647186%2C55.759711&z=16.02)
 
 3. [ТЦ «Атриум»](https://yandex.ru/profile/1010479265?no-distribution=1&source=wizbiz_new_map_single)
+
+4. [Другие места рядом с кампусом](https://www.hse.ru/buildinghse/pokrovka/out-eat) 
 
 
 Места, где можно поесть, рядом с МИАН:
