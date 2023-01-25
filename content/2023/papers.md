@@ -42,7 +42,7 @@ title = "Материалы школы-конференции"
 с числом Пикара 1) и о их группах автоморфизмов.
 
 [Ссылка на статью](http://www.mi.ras.ru/~akuznet/publications/Hilbert%20schemes%20of%20lines%20and%20conics%20and%20automorphism%20groups%20of%20Fano%20threefolds.pdf
-) к курсу лекций.
+) к курсу лекций и [записки курса](https://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=lkn&paperid=31&option_lang=rus), прочитанного Ю.Г. Прохоровым в НОЦ МИАН.
 
 
 **4) Неретин Юрий Александрович, "Умножения двойных классов смежности и шлейфы бесконечномерных групп"**
