@@ -10,6 +10,8 @@ title = "Материалы школы-конференции"
 </script>
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
 
+[Тезисы](../10th_School_Abstracts.pdf) докладов десятой школы-конференции.
+
 
 **1) Авдеев Роман Сергеевич, "Чудесные многообразия в теории сферических многообразий"**
 
