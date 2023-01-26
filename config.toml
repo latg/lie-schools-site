@@ -22,7 +22,7 @@ baseURL = "https://lie-school.ru/"
   weight = -70
 [[menu.menu_2023]]
   name = 'Расписание'
-  url = '/2023/timetable'
+  url = '/2023/schedule.pdf'
   weight = -60
 [[menu.menu_2023]]
   name = 'Лекционные курсы'
