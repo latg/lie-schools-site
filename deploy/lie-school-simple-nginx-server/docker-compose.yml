@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  web:
+    image: nginx:alpine
+    restart: always
+    expose:
+      - "80"
+    volumes:
+      - /srv/lie-school.ru:/usr/share/nginx/html:ro
+    environment:
+      - VIRTUAL_HOST=lie-school.ru
+      - LETSENCRYPT_HOST=lie-school.ru
+      - LETSENCRYPT_EMAIL=a@perep.ru
