@@ -12,6 +12,8 @@ title = "Материалы школы-конференции"
 
 [Тезисы докладов](../10th_School_Abstracts.pdf) и [стендовые доклады](../АЛАГТИ10_постеры.pdf) десятой школы-конференции.
 
+Видеозаписи: на [Mathnet](https://www.mathnet.ru/php/conference.phtml?option_lang=rus&eventID=1&confid=2151) и на Youtube ([лекции](https://www.youtube.com/playlist?list=PLP7TlJOMJE5xDB2TKhPIrswd_-i9GWApP), [пленарные доклады](https://www.youtube.com/playlist?list=PLP7TlJOMJE5yALtNnotnwszQ0liZ9N4ph), [секционные доклады](https://www.youtube.com/playlist?list=PLP7TlJOMJE5zqm3gEzy7NwP1ZV8gkGeRP)).
+
 
 **1) Авдеев Роман Сергеевич, "Чудесные многообразия в теории сферических многообразий"**
 
