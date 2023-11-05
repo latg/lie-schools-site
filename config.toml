@@ -49,42 +49,4 @@ baseURL = "https://lie-school.ru/"
   url = '/'
   weight = 0
 
-[menu]
-[[menu.menu_2024]]
-  name = 'О школе'
-  url = '/2024'
-  weight = -80
-[[menu.menu_2024]]
-  name = 'Расписание'
-  url = '/2024/schedule.pdf'
-  weight = -60
-[[menu.menu_2024]]
-  name = 'Лекционные курсы'
-  url = '/2024/lectures'
-  weight = -50
-[[menu.menu_2024]]
-  name = 'Сборник тезисов и материалы курсов'
-  url = '/2024/papers'
-  weight = -40
-[[menu.menu_2024]]
-  name = 'Программный и организационный комитеты'
-  url = '/2024/orgs'
-  weight = -30
-[[menu.menu_2024]]
-  name = 'Зарегистрированные участники'
-  url = '/2024/list'
-  weight = -20
-[[menu.menu_2024]]
-  name = 'Расположение'
-  url = '/2024/contacts'
-  weight = -10
-[[menu.menu_2024]]
-  name = 'Фотографии'
-  url = '/2024/photo'
-  weight = -5
-[[menu.menu_2024]]
-  name = 'На главную'
-  url = '/'
-  weight = 0
-  
   
