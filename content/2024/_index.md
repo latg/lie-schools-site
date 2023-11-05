@@ -33,9 +33,9 @@ logos:
   </div>
 </div> -->
 
-<div>
-  <a href="/2023/poster.pdf">Скачать PDF-версию постера</a>
-</div>
+<!--<div>
+  <a href="/2024/poster.pdf">Скачать PDF-версию постера</a>
+</div>-->
 
 <div class="logos">
 
