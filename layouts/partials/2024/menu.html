@@ -1,37 +1,17 @@
 ﻿<td align="left" class="menu" style="width: 15%; vertical-align: top;">
 <ul class="menu">
-    {{ $currentPage := . }}
-    {{ range .Site.Menus.menu_2024 }}
-    <li {{if eq (trim $currentPage.URL "/") (trim .URL "/")}} class="active"{{end}}><a  href="{{ .URL }}">{{ .Name }}</a></li>
-    {{ end }}
+  <p><a href="/2024">О школе</a></p>
+  <!--<p><a href="/2024/shedule.pdf">Второе информационное сообщение</a></p>-->
+  <p><a href="/2024/lectures">Лекционные курсы</a></p>
+  <p><a href="/2024/papers">Сборник тезисов и материалы курсов</a></p>
+  <a href="/2021/papers">Сборник тезисов и материалы курсов</a>
+  <p><a href="/2024/orgs">Программный и организационный комитеты</a></p>
+  <p><a href="/2024/list">Зарегистрированные участники</a></p>
+  <p><a href="/2024/contacts">Контакты</a></p>
+  <p><a href="/">На главную</a></p>
 </ul>
 </td>
-<!-- [menu]
-[[menu.menu_2024]]
-  name = 'О школе'
-  url = '/2024'
-  weight = -80
-[[menu.menu_2024]]
-  name = 'Расписание'
-  url = '/2024/schedule.pdf'
-  weight = -60
-[[menu.menu_2024]]
-  name = 'Лекционные курсы'
-  url = '/2024/lectures'
-  weight = -50
-[[menu.menu_2024]]
-  name = 'Сборник тезисов и материалы курсов'
-  url = '/2024/papers'
-  weight = -40
-[[menu.menu_2024]]
-  name = 'Программный и организационный комитеты'
-  url = '/2024/orgs'
-  weight = -30
-[[menu.menu_2024]]
-  name = 'Зарегистрированные участники'
-  url = '/2024/list'
-  weight = -20
-[[menu.menu_2024]]
+<!-- 
   name = 'Расположение'
   url = '/2024/contacts'
   weight = -10
