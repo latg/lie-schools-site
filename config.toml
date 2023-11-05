@@ -60,7 +60,7 @@ baseURL = "https://lie-school.ru/"
 [[menu.menu_2024]]
   name = 'Регистрация'
   url = '/2024/registration'
-  weight = -40
+  weight = -70
 [[menu.menu_2024]]
   name = 'Программный и организационный комитеты'
   url = '/2024/orgs'
