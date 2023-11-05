@@ -1,5 +1,5 @@
-﻿<td align="left" class="menu1" style="width: 15%; vertical-align: top;">
-<ul class="menu1">
+﻿<td align="left" class="menu" style="width: 15%; vertical-align: top;">
+<ul class="menu">
     {{ $currentPage := . }}
     {{ range .Site.Menus.menu_2024 }}
     <li {{if eq (trim $currentPage.URL "/") (trim .URL "/")}} class="active"{{end}}><a  href="{{ .URL }}">{{ .Name }}</a></li>
