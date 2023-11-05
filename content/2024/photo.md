@@ -6,4 +6,4 @@ photo = true
 +++
 
 
-<a href="https://photos.app.goo.gl/LGzNhAaYvwLjHu3d7" target="_blank">Архив всех фотографий школы</a><br /><br />
+<a href="https://photos.app.goo.gl/LGzNhAaYvwLjHu3d7" target="_blank">Архив фотографий школы-конференции предыдущих лет</a><br /><br />
