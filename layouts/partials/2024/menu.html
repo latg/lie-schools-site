@@ -1,26 +1,8 @@
 ﻿<td align="left" class="menu" style="width: 15%; vertical-align: top;">
 <ul class="menu">
-  <p><a href="/2024">О школе</a></p>
-  <!--<p><a href="/2024/shedule.pdf">Второе информационное сообщение</a></p>-->
-  <p><a href="/2024/lectures">Лекционные курсы</a></p>
-  <p><a href="/2024/papers">Сборник тезисов и материалы курсов</a></p>
-  <a href="/2024/papers">Сборник тезисов и материалы курсов</a>
-  <p><a href="/2024/orgs">Программный и организационный комитеты</a></p>
-  <p><a href="/2024/list">Зарегистрированные участники</a></p>
-  <p><a href="/2024/contacts">Контакты</a></p>
-  <p><a href="/">На главную</a></p>
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.menu_2023 }}
+    <li {{if eq (trim $currentPage.URL "/") (trim .URL "/")}} class="active"{{end}}><a  href="{{ .URL }}">{{ .Name }}</a></li>
+    {{ end }}
 </ul>
 </td>
-<!-- 
-  name = 'Расположение'
-  url = '/2024/contacts'
-  weight = -10
-[[menu.menu_2024]]
-  name = 'Фотографии'
-  url = '/2024/photo'
-  weight = -5
-[[menu.menu_2024]]
-  name = 'На главную'
-  url = '/'
-  weight = 0
-  -->
