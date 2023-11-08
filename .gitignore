@@ -2,3 +2,4 @@
 /rubbish/
 update_and_deploy.sh
 *.DS_Store
+.hugo_build.lock
