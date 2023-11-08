@@ -2,7 +2,7 @@
 <ul class="menu">
     {{ $currentPage := . }}
     {{ range .Site.Menus.menu_2023 }}
-    <li {{if eq (trim $currentPage.URL "/") (trim .URL "/")}} class="active"{{end}}><a  href="{{ .URL }}">{{ .Name }}</a></li>
+    <li {{if eq (trim $currentPage.RelPermalink "/") (trim .RelPermalink "/")}} class="active"{{end}}><a  href="{{ .RelPermalink }}">{{ .Name }}</a></li>
     {{ end }}
 </ul>
 </td>
