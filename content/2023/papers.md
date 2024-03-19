@@ -34,7 +34,6 @@ title = "Материалы школы-конференции"
 
 [Записки лекций](../notes_lectures_1_2_3.pdf)
 
-[Gene Freudenburg -- "Algebraic Theory of Locally Nilpotent Derivations"](../Gene_Freudenburg_auth_Algebraic_Theory_of_Locally_Nilpotent_Derivations.pdf)
 
 
 **3) Кузнецов Александр Геннадьевич, "Автоморфизмы трехмерных многообразий Фано"**
