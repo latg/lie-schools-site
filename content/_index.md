@@ -37,10 +37,6 @@ title = "О школе"
 <td style="padding-left: 30px">
 <a href="http://simc.mi-ras.ru"><img style="width: 165px; height: 66px;" src="/main_files/simc-logo.png" alt="Steklov International Mathematical Center" title="Steklov International Mathematical Center" /></a>
 </td>
-</td>
-<td style="padding-left: 30px">
-<a href="https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai"><img style="width: 165px; height: 165px;" src="/main_files/national-projects.svg" alt="Национальные проекты России" title="Национальные проекты России" /></a>
-</td>
 
 </tr>
 </table>
