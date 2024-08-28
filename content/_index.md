@@ -28,7 +28,7 @@ title = "О школе"
 
 <a href="http://simc.mi-ras.ru"><img style="width: 180px; height: 66px;" src="/main_files/simc-logo.png" alt="Steklov International Mathematical Center" title="Steklov International Mathematical Center" /></a>
 
-<a href="https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai/projects/nauka-i-universitety"><img style="width: 120px; height: 120px;" src="/main_files/national-projects.svg" alt="Национальные проекты рф" title="Национальные проекты рф" /></a>
+<!--<a href="https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai/projects/nauka-i-universitety"><img style="width: 120px; height: 120px;" src="/main_files/national-projects.svg" alt="Национальные проекты рф" title="Национальные проекты рф" /></a>-->
 
 
 
