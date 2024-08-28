@@ -39,7 +39,7 @@ title = "О школе"
 </td>
 </td>
 <td style="padding-left: 30px">
-<a href="https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai"><img style="width: 200px; height: 200px;" src="/main_files/national-projects.svg" alt="Национальные проекты России" title="Национальные проекты России" /></a>
+<a href="https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai"><img style="width: 165px; height: 165px;" src="/main_files/national-projects.svg" alt="Национальные проекты России" title="Национальные проекты России" /></a>
 </td>
 
 </tr>
