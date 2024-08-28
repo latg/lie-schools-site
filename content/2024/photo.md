@@ -12,19 +12,19 @@ photo = true
 <table>
 <tr>
 	<td>
-		<a href="../photos/Samara_all1.jpg" data-lightbox="conf"><img src="../previews/HSE_1.jpg" /></a>
+		<a href="../photos/Samara_all1.jpg" data-lightbox="conf"><img src="../photos/Samara_all1.jpg" /></a>
 	</td>
 	<td>
-		<a href="../photos/Samara_all2.jpg" data-lightbox="conf"><img src="../previews/HSE_2.jpg" /></a>
+		<a href="../photos/Samara_all2.jpg" data-lightbox="conf"><img src="../photos/Samara_all2.jpg" /></a>
 	</td>
 	<td>
-		<a href="../photos/Samara_all3.jpg" data-lightbox="conf"><img src="../previews/HSE_3.jpg" /></a>
+		<a href="../photos/Samara_all3.jpg" data-lightbox="conf"><img src="../photos/Samara_all3.jpg" /></a>
 	</td>
 	<td>
-		<a href="../photos/Samara_all4.jpg" data-lightbox="conf"><img src="../previews/MI_1.jpg" /></a>
+		<a href="../photos/Samara_all4.jpg" data-lightbox="conf"><img src="../photos/Samara_all4.jpg" /></a>
 	</td>
 	<td>
-		<a href="../photos/Samara - Conference shot.jpg" data-lightbox="conf"><img src="../previews/MI_2.jpg" /></a>
+		<a href="../photos/Samara - Conference shot.jpg" data-lightbox="conf"><img src="../photos/Samara - Conference shot.jpg" /></a>
 	</td>
 </tr>
 </table>
