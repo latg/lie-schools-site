@@ -63,6 +63,10 @@ baseURL = "https://lie-school.ru/"
   name = 'Лекционные курсы'
   url = '/2024/lectures'
   weight = -50
+[[menu.menu_2023]]
+  name = 'Сборник тезисов и материалы курсов'
+  url = '/2024/papers'
+  weight = -40
 [[menu.menu_2024]]
   name = 'Программный и организационный комитеты'
   url = '/2024/orgs'
@@ -71,6 +75,10 @@ baseURL = "https://lie-school.ru/"
   name = 'Зарегистрированные участники'
   url = '/2024/list'
   weight = -20
+[[menu.menu_2023]]
+  name = 'Фотографии'
+  url = '/2024/photo'
+  weight = -5
 [[menu.menu_2024]]
   name = 'На главную'
   url = '/'
