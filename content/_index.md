@@ -18,26 +18,20 @@ title = "О школе"
 
 <div class="logos">
 
-<table>
-<tr>
+<a href="https://international.msu.ru/ru"><img style="width: 100px; height: 100px;" src="/main_files/msu-logo.png" alt="Московский государственный университет" title="Московский государственный университет" /></a>
 
-<td>
-<a href="http://msu.ru"><img style="width: 100px; height: 100px;" src="/main_files/msu-logo.png" alt="Московский государственный университет" title="Московский государственный университет" /></a>
-</td>
-<td style="padding-left: 30px">
-<a href="http://ssau.ru"><img style="width: 100px; height: 100px;" src="/main_files/samu-logo.png" alt="Самарский университет" title="Самарский университет" /></a>
-</td>
-<td style="padding-left: 30px">
-<a href="https://math.hse.ru/latg"><img style="width: 90px; height: 120px;" src="/main_files/atg_logo_sq.png" alt="Национальный исследовательский университет Высшая Школа Экономики" title="Национальный исследовательский университет Высшая Школа Экономики" /></a>
-</td>
+<a href="http://ssau.ru"><img style="width: 90px; height: 90px;" src="/main_files/samu-logo.png" alt="Самарский университет" title="Самарский университет" /></a>
 
-<td style="padding-left: 30px">
+<a href="https://math.hse.ru/latg/"><img style="width: 75px; height: 110px;" src="/main_files/atg_logo_sq.png" alt="Национальный исследовательский университет Высшая Школа Экономики" title="Национальный исследовательский университет Высшая Школа Экономики" /></a>
+
 <a href="http://ium.mccme.ru"><img style="width: 165px; height: 66px;" src="/main_files/nmu-logo.png" alt="Независимый Московский университет" title="Независимый Московский университет" /></a>
-</td>
-<td style="padding-left: 30px">
-<a href="http://simc.mi-ras.ru"><img style="width: 165px; height: 66px;" src="/main_files/simc-logo.png" alt="Steklov International Mathematical Center" title="Steklov International Mathematical Center" /></a>
-</td>
 
-</tr>
-</table>
+<!--<a href="http://simc.mi-ras.ru"><img style="width: 140px; height: 100px;" src="/main_files/MI.png" alt="МИАН" title="МИАН" /></a>-->
+
+<a href="http://simc.mi-ras.ru"><img style="width: 180px; height: 66px;" src="/main_files/simc-logo.png" alt="Steklov International Mathematical Center" title="Steklov International Mathematical Center" /></a>
+
+<a href="https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai/projects/nauka-i-universitety"><img style="width: 120px; height: 120px;" src="/main_files/national-projects.svg" alt="Национальные проекты рф" title="Национальные проекты рф" /></a>
+
+
+
 </div>
