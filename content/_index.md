@@ -14,6 +14,8 @@ title = "О школе"
 Организаторы надеются, что школы-конференции достойно продолжат лучшие традиции математических школ,
 в которых участвовало несколько поколений советских и российских ученых.
 
+Мероприятие проводится при финансовой поддержке Минобрнауки России (грант на создание и развитие МЦМУ МИАН, соглашение № 075-15-2022-265).
+
 <div class="logos">
 
 <table>
@@ -35,6 +37,11 @@ title = "О школе"
 <td style="padding-left: 30px">
 <a href="http://simc.mi-ras.ru"><img style="width: 165px; height: 66px;" src="/main_files/simc-logo.png" alt="Steklov International Mathematical Center" title="Steklov International Mathematical Center" /></a>
 </td>
+</td>
+<td style="padding-left: 30px">
+<a href="https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai"><img style="width: 90px; height: 120px;" src="/main_files/national_projects.svg" alt="Национальные проекты России" title="Национальные проекты России" /></a>
+</td>
+
 </tr>
 </table>
 </div>
