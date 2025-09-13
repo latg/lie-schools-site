@@ -84,4 +84,17 @@ baseURL = "https://lie-school.ru/"
   url = '/'
   weight = 0
 
+[[menu.menu_2026]]
+  name = 'О школе'
+  url = '/2026'
+  weight = -80
+[[menu.menu_2026]]
+  name = 'Программный и организационный комитеты'
+  url = '/2026/orgs'
+  weight = -30
+[[menu.menu_2026]]
+  name = 'На главную'
+  url = '/'
+  weight = 0
+
 
