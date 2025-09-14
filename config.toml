@@ -89,12 +89,37 @@ baseURL = "https://lie-school.ru/"
   url = '/2026'
   weight = -80
 [[menu.menu_2026]]
+  name = 'Регистрация'
+  url = '/2026/registration'
+  weight = -70
+#[[menu.menu_2026]]
+#  name = 'Расписание'
+#  url = '/2026/shedule.pdf'
+#  weight = -60
+#[[menu.menu_2026]]
+#  name = 'Лекционные курсы'
+#  url = '/2026/lectures'
+#  weight = -50
+#[[menu.menu_2026]]
+#  name = 'Сборник тезисов и материалы курсов'
+#  url = '/2026/papers'
+#  weight = -40
+[[menu.menu_2026]]
   name = 'Программный и организационный комитеты'
   url = '/2026/orgs'
   weight = -30
+#[[menu.menu_2026]]
+#  name = 'Зарегистрированные участники'
+#  url = '/2026/list'
+#  weight = -20
+#[[menu.menu_2026]]
+
+#[[menu.menu_2026]]
+#  name = 'Фотографии'
+#  url = '/2026/photo'
+#  weight = -5
 [[menu.menu_2026]]
   name = 'На главную'
   url = '/'
   weight = 0
-
 
