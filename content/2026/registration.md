@@ -11,7 +11,7 @@ title = "Регистрация"
 
 Для регистрации на двенадцатую школу-конференцию заполните форму по [ссылке](https://docs.google.com/forms/d/e/1FAIpQLSfrUWtyZjzz8HClxvaBgtvEe65HjbS4rcT9cuKbcAzqFdUu4Q/viewform?usp=dialog). Кроме устных докладов на школе запланирована постерная сессия. Отправить тезисы докладов и файлы постеров можно на почту школы-конференции [lie.algebras26@gmail.com](mailto:lie.algebras26@gmail.com).
 
-Срок окончания регистрации, приёма тезисов докладов и файлов постеров — 31 декабря 2026 года.
+Срок окончания регистрации, приёма тезисов докладов и файлов постеров — 31 декабря 2025 года.
 
 Шаблон тезисов: <a href="/2026/Abstract_example.tex" download>tex-файл</a>, <a href="/2026/Abstract_example.pdf" download>pdf-файл</a>.
 Шаблон постеров можно найти по [ссылке](https://www.overleaf.com/read/jbzksrydnqsm#bd2559).
