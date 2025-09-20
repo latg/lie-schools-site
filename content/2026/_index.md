@@ -30,7 +30,7 @@ logos:
 
 <a href="http://ssau.ru"><img style="width: 90px; height: 90px;" src="/main_files/samu-logo.png" alt="Самарский университет" title="Самарский университет" /></a>
 
-<a href="https://math.hse.ru/latg/"><img style="width: 75px; height: 110px;" src="/main_files/01_Logo_HSE_full_rus_Pantone.png" alt="Национальный исследовательский университет Высшая Школа Экономики" title="Национальный исследовательский университет Высшая Школа Экономики" /></a>
+<a href="https://math.hse.ru/latg/"><img style="width: 213px; height: 214px;" src="/main_files/01_Logo_HSE_full_rus_Pantone.png" alt="Национальный исследовательский университет Высшая Школа Экономики" title="Национальный исследовательский университет Высшая Школа Экономики" /></a>
 
 <a href="http://simc.mi-ras.ru"><img style="width: 180px; height: 66px;" src="/main_files/simc-logo.png" alt="Steklov International Mathematical Center" title="Steklov International Mathematical Center" /></a>
 
