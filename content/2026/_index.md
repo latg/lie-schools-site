@@ -1,9 +1,9 @@
 ---
 date: "2022-08-13T00:29:30+03:00"
 title: "О школе"
-#menu:
-#  main:
-#    name: "26-31 января 2026 г., Москва"
+menu:
+  main:
+    name: "26-31 января 2026 г., Москва"
 logos:
   - src: "/main_files/samu-logo.png"
     title: Самарский университет
