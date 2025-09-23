@@ -96,10 +96,10 @@ baseURL = "https://lie-school.ru/"
 #  name = 'Расписание'
 #  url = '/2026/shedule.pdf'
 #  weight = -60
-#[[menu.menu_2026]]
-#  name = 'Лекционные курсы'
-#  url = '/2026/lectures'
-#  weight = -50
+[[menu.menu_2026]]
+  name = 'Лекторы'
+  url = '/2026/lectures'
+  weight = -50
 #[[menu.menu_2026]]
 #  name = 'Сборник тезисов и материалы курсов'
 #  url = '/2026/papers'
