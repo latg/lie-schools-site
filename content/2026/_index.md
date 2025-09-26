@@ -30,13 +30,13 @@ logos:
 
 <a href="http://ssau.ru"><img style="width: 90px; height: 90px;" src="/main_files/samu-logo.png" alt="Самарский университет" title="Самарский университет" /></a>
 
-<a href="https://math.hse.ru/latg/"><img style="margin-left: 10px; margin-right: 10px; width: 106px; height: 107px;" src="/main_files/01_Logo_HSE_full_rus_Pantone.png" alt="Национальный исследовательский университет Высшая Школа Экономики" title="Национальный исследовательский университет Высшая Школа Экономики" /></a>
+<a href="https://math.hse.ru/latg/"><img style="margin-left: 5px; margin-right: 10px; width: 106px; height: 107px;" src="/main_files/01_Logo_HSE_full_rus_Pantone.png" alt="Национальный исследовательский университет Высшая Школа Экономики" title="Национальный исследовательский университет Высшая Школа Экономики" /></a>
 
 <a href="http://simc.mi-ras.ru"><img style="width: 180px; height: 66px;" src="/main_files/simc-logo.png" alt="Steklov International Mathematical Center" title="Steklov International Mathematical Center" /></a>
 
 <!--<a href="https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai/projects/nauka-i-universitety"><img style="width: 120px; height: 120px;" src="/main_files/national-projects.svg" alt="Национальные проекты рф" title="Национальные проекты рф" /></a>-->
 
-<a href="https://international.msu.ru/ru"><img style="margin-left: 10px; width: 100px; height: 100px;" src="/main_files/msu-logo.png" alt="Московский государственный университет" title="Московский государственный университет" /></a>
+<a href="https://international.msu.ru/ru"><img style="margin-left: 15px; width: 100px; height: 100px;" src="/main_files/msu-logo.png" alt="Московский государственный университет" title="Московский государственный университет" /></a>
 
 <a href="https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai"><img style="width: 165px; height: 165px;" src="/main_files/national-projects.svg" alt="Национальные проекты России" title="Национальные проекты России" /></a>
 
