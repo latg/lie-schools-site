@@ -36,9 +36,9 @@ logos:
 
 <!--<a href="https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai/projects/nauka-i-universitety"><img style="width: 120px; height: 120px;" src="/main_files/national-projects.svg" alt="Национальные проекты рф" title="Национальные проекты рф" /></a>-->
 
-<a href="https://international.msu.ru/ru"><img style="margin-left: 15px; width: 100px; height: 100px;" src="/main_files/msu-logo.png" alt="Московский государственный университет" title="Московский государственный университет" /></a>
+<a href="https://international.msu.ru/ru"><img style="margin-left: 15px; width: 95px; height: 95px;" src="/main_files/msu-logo.png" alt="Московский государственный университет" title="Московский государственный университет" /></a>
 
-<a href="https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai"><img style="width: 165px; height: 165px;" src="/main_files/national-projects.svg" alt="Национальные проекты России" title="Национальные проекты России" /></a>
+<a href="https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai"><img style="width: 155px; height: 155px;" src="/main_files/national-projects.svg" alt="Национальные проекты России" title="Национальные проекты России" /></a>
 
 
 </div>
