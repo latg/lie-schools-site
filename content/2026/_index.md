@@ -26,19 +26,19 @@ logos:
 
 <div class="logos">
 
-<a href="http://simc.mi-ras.ru"><img style="width: 126px; height: 90px;" src="/main_files/MI.png" alt="МИАН" title="МИАН" /></a>
+<a href="http://simc.mi-ras.ru"><img style="width: 133px; height: 95px;" src="/main_files/MI.png" alt="МИАН" title="МИАН" /></a>
 
 <a href="http://ssau.ru"><img style="width: 90px; height: 90px;" src="/main_files/samu-logo.png" alt="Самарский университет" title="Самарский университет" /></a>
 
 <a href="https://math.hse.ru/latg/"><img style="margin-right: 10px; width: 96px; height: 97px;" src="/main_files/01_Logo_HSE_full_rus_Pantone.png" alt="Национальный исследовательский университет Высшая Школа Экономики" title="Национальный исследовательский университет Высшая Школа Экономики" /></a>
 
-<a href="http://simc.mi-ras.ru"><img style="width: 180px; height: 66px;" src="/main_files/simc-logo.png" alt="Steklov International Mathematical Center" title="Steklov International Mathematical Center" /></a>
+<a href="http://simc.mi-ras.ru"><img style="width: 163px; height: 60px;" src="/main_files/simc-logo.png" alt="Steklov International Mathematical Center" title="Steklov International Mathematical Center" /></a>
 
 <!--<a href="https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai/projects/nauka-i-universitety"><img style="width: 120px; height: 120px;" src="/main_files/national-projects.svg" alt="Национальные проекты рф" title="Национальные проекты рф" /></a>-->
 
-<a href="https://international.msu.ru/ru"><img style="margin-left: 15px; width: 95px; height: 95px;" src="/main_files/msu-logo.png" alt="Московский государственный университет" title="Московский государственный университет" /></a>
+<a href="https://international.msu.ru/ru"><img style="margin-left: 10px; width: 95px; height: 95px;" src="/main_files/msu-logo.png" alt="Московский государственный университет" title="Московский государственный университет" /></a>
 
-<a href="https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai"><img style="width: 155px; height: 155px;" src="/main_files/national-projects.svg" alt="Национальные проекты России" title="Национальные проекты России" /></a>
+<a href="https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai"><img style="width: 150px; height: 150px;" src="/main_files/national-projects.svg" alt="Национальные проекты России" title="Национальные проекты России" /></a>
 
 
 </div>
