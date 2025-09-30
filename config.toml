@@ -108,11 +108,11 @@ baseURL = "https://lie-school.ru/"
   name = 'Программный и организационный комитеты'
   url = '/2026/orgs'
   weight = -30
-#[[menu.menu_2026]]
-#  name = 'Зарегистрированные участники'
-#  url = '/2026/list'
-#  weight = -20
-#[[menu.menu_2026]]
+[[menu.menu_2026]]
+  name = 'Зарегистрированные участники'
+  url = '/2026/list'
+  weight = -20
+[[menu.menu_2026]]
 
 #[[menu.menu_2026]]
 #  name = 'Фотографии'
