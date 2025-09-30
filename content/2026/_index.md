@@ -22,7 +22,7 @@ logos:
 
 
 <div>
-  <a href="/2026/poster.pdf">Скачать PDF-версию афишы</a>
+  <a href="/2026/afisha.pdf">Скачать PDF-версию афишы</a>
 </div>
 
 
