@@ -26,7 +26,7 @@ logos:
 
 <div class="logos">
 
-<a href="http://simc.mi-ras.ru"><img style="width: 140px; height: 100px;" src="/main_files/MI.png" alt="МИАН" title="МИАН" /></a>
+<a href="http://simc.mi-ras.ru"><img style="width: 126px; height: 90px;" src="/main_files/MI.png" alt="МИАН" title="МИАН" /></a>
 
 <a href="http://ssau.ru"><img style="width: 90px; height: 90px;" src="/main_files/samu-logo.png" alt="Самарский университет" title="Самарский университет" /></a>
 
