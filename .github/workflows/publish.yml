@@ -16,10 +16,11 @@ jobs:
         run: hugo
 
       - name: upload to VPS
-        uses: wangyucode/sftp-upload-action@v2.0.4
+        uses: burnett01/rsync-deployments@7.1.0
         with:
-          host: "test.lie-school.ru"
-          privateKey: ${{ secrets.VPS_SSH_PRIVATE_KEY }}
-          localDir: "./public"
-          remoteDir: "/root/webserver/public"
-          removeExtraFilesOnServer: true
+          switches: -avzr --delete
+          path: ./public
+          remote_path: /root/webserver/public
+          remote_host: test.lie-school.ru
+          remote_user: root
+          remote_key: ${{ secrets.VPS_SSH_PRIVATE_KEY }}
