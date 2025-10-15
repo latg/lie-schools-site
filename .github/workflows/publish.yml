@@ -19,7 +19,7 @@ jobs:
         uses: burnett01/rsync-deployments@7.1.0
         with:
           switches: -avzr --delete
-          path: ./public/
+          path: ./public
           remote_path: /root/webserver/
           remote_host: lie-school.ru
           remote_user: root
