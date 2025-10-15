@@ -19,8 +19,8 @@ jobs:
         uses: burnett01/rsync-deployments@7.1.0
         with:
           switches: -avzr --delete
-          path: ./public
-          remote_path: /root/webserver/public
-          remote_host: test.lie-school.ru
+          path: ./public/
+          remote_path: /root/webserver/
+          remote_host: lie-school.ru
           remote_user: root
           remote_key: ${{ secrets.VPS_SSH_PRIVATE_KEY }}
