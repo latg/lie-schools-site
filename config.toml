@@ -97,7 +97,7 @@ baseURL = "https://lie-school.ru/"
 #  url = '/2026/shedule.pdf'
 #  weight = -60
 [[menu.menu_2026]]
-  name = 'Лекторы'
+  name = 'Лекционные курсы'
   url = '/2026/lectures'
   weight = -50
 #[[menu.menu_2026]]
