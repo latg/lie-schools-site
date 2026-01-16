@@ -26,15 +26,15 @@ title = "Расположение"
 
 1. Столовая в Вычислительном Центре РАН (ул. Вавилова, д. 40) — 31.01 и 01.02, 14:00–16:00, проход по спискам и паспортам РФ.
 
-2. [Мишки-Братишки (китайская закусочная)](https://yandex.ru/maps/213/moscow/?from=tabbar&ll=37.561547%2C55.692029&mode=poi&poi%5Bpoint%5D=37.561412%2C55.691876&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D187388947173%26yclid%3D5609781951313739775&source=serp_navig&z=17.2](https://yandex.ru/maps/213/moscow/?from=tabbar&ll=37.562303%2C55.693344&mode=poi&poi%5Bpoint%5D=37.562723%2C55.692611&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D146255557386&source=serp_navig&z=16))
+2. [Мишки-Братишки (китайская закусочная)](https://yandex.ru/maps/213/moscow/?from=tabbar&ll=37.562303%2C55.693344&mode=poi&poi%5Bpoint%5D=37.562723%2C55.692611&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D146255557386&source=serp_navig&z=16.6)
 
-3. [Гудман (есть бизнес-ланч в пределах 1000 р.)](https://yandex.ru/maps/org/khinkalnaya/1167156601/?from=tabbar&ll=37.556969%2C55.695526&source=serp_navig&z=17](https://yandex.ru/maps/213/moscow/?from=tabbar&ll=37.561946%2C55.696541&mode=poi&poi%5Bpoint%5D=37.561699%2C55.696757&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D1334458145&source=serp_navig&z=19))
+3. [Гудман (есть бизнес-ланч в пределах 1000 р.)](https://yandex.ru/maps/213/moscow/?from=tabbar&ll=37.561946%2C55.696541&mode=poi&poi%5Bpoint%5D=37.561699%2C55.696757&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D1334458145&source=serp_navig&z=19)
 
 4. [Ламбик (есть бизнес-ланч в пределах 1000 р.)](https://yandex.ru/maps/213/moscow/?from=tabbar&ll=37.561547%2C55.692029&mode=poi&poi%5Bpoint%5D=37.561412%2C55.691876&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D187388947173%26yclid%3D5609781951313739775&source=serp_navig&z=17.2)
 
-5. [Хинкальная](https://yandex.ru/maps/213/moscow/?from=tabbar&ll=37.561946%2C55.696541&mode=poi&poi%5Bpoint%5D=37.561882%2C55.696861&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D1208085510&source=serp_navig&z=19](https://yandex.ru/maps/org/khinkalnaya/1167156601/?from=tabbar&ll=37.556969%2C55.695526&source=serp_navig&z=17))
+5. [Хинкальная](https://yandex.ru/maps/org/khinkalnaya/1167156601/?from=tabbar&ll=37.556969%2C55.695526&source=serp_navig&z=17)
 
-6. [Дэди](https://yandex.ru/maps/213/moscow/?from=tabbar&ll=37.561946%2C55.696541&mode=poi&poi%5Bpoint%5D=37.561699%2C55.696757&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D1334458145&source=serp_navig&z=19](https://yandex.ru/maps/org/gruzinskiy_restoran_dedi/193926332879/?from=tabbar&ll=37.561379%2C55.693078&source=serp_navig&z=17))
+6. [Дэди](https://yandex.ru/maps/org/gruzinskiy_restoran_dedi/193926332879/?from=tabbar&ll=37.561379%2C55.693078&source=serp_navig&z=17)
 
 
 
