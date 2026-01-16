@@ -92,10 +92,10 @@ baseURL = "https://lie-school.ru/"
   name = 'Регистрация'
   url = '/2026/registration'
   weight = -70
-#[[menu.menu_2026]]
-#  name = 'Расписание'
-#  url = '/2026/shedule.pdf'
-#  weight = -60
+[[menu.menu_2026]]
+  name = 'Предварительное расписание'
+  url = '/2026/shedule_v1.pdf'
+  weight = -60
 [[menu.menu_2026]]
   name = 'Лекционные курсы'
   url = '/2026/lectures'
@@ -112,7 +112,11 @@ baseURL = "https://lie-school.ru/"
   name = 'Зарегистрированные участники'
   url = '/2026/list'
   weight = -20
+
 [[menu.menu_2026]]
+  name = 'Расположение'
+  url = '/2026/contacts'
+  weight = -10
 
 #[[menu.menu_2026]]
 #  name = 'Фотографии'
