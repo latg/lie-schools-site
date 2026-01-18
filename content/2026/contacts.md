@@ -8,6 +8,7 @@ title = "Расположение"
 Школа-конференция пройдёт в комплексе зданий «Покровка» Национального исследовательского университета «Высшая школа экономики» по адресу г. Москва, Покровский бульвар, дом 11, и в Математическом институте им. В.А. Стеклова Российской академии наук по адресу г. Москва, ул. Губкина, дом 8. Посмотреть как добраться до корпусов можно [здесь](https://www.hse.ru/buildinghse/pokrovka/map) (НИУ ВШЭ) и [здесь](https://mi-ras.ru/index.php?c=map) (МИАН). Проход в здания по спискам, необходимо иметь при себе **паспорт**.
 
 
+[Схема проезда](https://yandex.ru/maps/?um=constructor%3A2bde761e173881fec55530aa085349df07c5a2452cecea5c1d14df03fe852c71&source=constructorLink)
 
 
 
@@ -24,17 +25,15 @@ title = "Расположение"
 
 Где можно поесть рядом с МИАН:
 
-1. Столовая в Вычислительном Центре РАН (ул. Вавилова, д. 40) — 31.01 и 01.02, 14:00–16:00, проход по спискам и паспортам РФ.
+1. [Мишки-Братишки (китайская закусочная)](https://yandex.ru/maps/213/moscow/?from=tabbar&ll=37.562303%2C55.693344&mode=poi&poi%5Bpoint%5D=37.562723%2C55.692611&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D146255557386&source=serp_navig&z=16.6)
 
-2. [Мишки-Братишки (китайская закусочная)](https://yandex.ru/maps/213/moscow/?from=tabbar&ll=37.562303%2C55.693344&mode=poi&poi%5Bpoint%5D=37.562723%2C55.692611&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D146255557386&source=serp_navig&z=16.6)
+2. [Гудман](https://yandex.ru/maps/213/moscow/?from=tabbar&ll=37.561946%2C55.696541&mode=poi&poi%5Bpoint%5D=37.561699%2C55.696757&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D1334458145&source=serp_navig&z=19)(есть бизнес-ланч в пределах 1000 р.)
 
-3. [Гудман (есть бизнес-ланч в пределах 1000 р.)](https://yandex.ru/maps/213/moscow/?from=tabbar&ll=37.561946%2C55.696541&mode=poi&poi%5Bpoint%5D=37.561699%2C55.696757&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D1334458145&source=serp_navig&z=19)
+3. [Ламбик](https://yandex.ru/maps/213/moscow/?from=tabbar&ll=37.561547%2C55.692029&mode=poi&poi%5Bpoint%5D=37.561412%2C55.691876&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D187388947173%26yclid%3D5609781951313739775&source=serp_navig&z=17.2)(есть бизнес-ланч в пределах 1000 р.)
 
-4. [Ламбик (есть бизнес-ланч в пределах 1000 р.)](https://yandex.ru/maps/213/moscow/?from=tabbar&ll=37.561547%2C55.692029&mode=poi&poi%5Bpoint%5D=37.561412%2C55.691876&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D187388947173%26yclid%3D5609781951313739775&source=serp_navig&z=17.2)
+4. [Хинкальная](https://yandex.ru/maps/org/khinkalnaya/1167156601/?from=tabbar&ll=37.556969%2C55.695526&source=serp_navig&z=17)
 
-5. [Хинкальная](https://yandex.ru/maps/org/khinkalnaya/1167156601/?from=tabbar&ll=37.556969%2C55.695526&source=serp_navig&z=17)
-
-6. [Дэди](https://yandex.ru/maps/org/gruzinskiy_restoran_dedi/193926332879/?from=tabbar&ll=37.561379%2C55.693078&source=serp_navig&z=17)
+5. [Дэди](https://yandex.ru/maps/org/gruzinskiy_restoran_dedi/193926332879/?from=tabbar&ll=37.561379%2C55.693078&source=serp_navig&z=17)
 
 
 
