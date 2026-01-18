@@ -94,16 +94,16 @@ baseURL = "https://lie-school.ru/"
   weight = -70
 [[menu.menu_2026]]
   name = 'Предварительное расписание'
-  url = '/2026/shedule_v1.pdf'
+  url = '/2026/shedule_v2.pdf'
   weight = -60
 [[menu.menu_2026]]
   name = 'Лекционные курсы'
   url = '/2026/lectures'
   weight = -50
-#[[menu.menu_2026]]
-#  name = 'Сборник тезисов и материалы курсов'
-#  url = '/2026/papers'
-#  weight = -40
+[[menu.menu_2026]]
+  name = 'Сборник тезисов и материалы курсов'
+  url = '/2026/papers'
+  weight = -40
 [[menu.menu_2026]]
   name = 'Программный и организационный комитеты'
   url = '/2026/orgs'
