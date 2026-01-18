@@ -26,6 +26,9 @@ logos:
 </div>
 
 
+Мероприятие проводится в рамках Программы фундаментальных исследований НИУ ВШЭ в 2026 году и при финансовой поддержке Минобрнауки России (грант на создание и развитие МЦМУ МИАН, соглашение № 075-15-2025-303).
+
+
 
 <div class="logos">
 
@@ -41,7 +44,7 @@ logos:
 
 <a href="https://international.msu.ru/ru"><img style="margin-top: 10px; margin-left: 10px; width: 95px; height: 95px;" src="/main_files/msu-logo.png" alt="Московский государственный университет" title="Московский государственный университет" /></a>
 
-<a href="https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai"><img style="width: 150px; height: 150px;" src="/main_files/national-projects.svg" alt="Национальные проекты России" title="Национальные проекты России" /></a>
+<!--<a href="https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai"><img style="width: 150px; height: 150px;" src="/main_files/national-projects.svg" alt="Национальные проекты России" title="Национальные проекты России" /></a>-->
 
 
 </div>
