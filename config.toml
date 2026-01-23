@@ -93,8 +93,8 @@ baseURL = "https://lie-school.ru/"
   url = '/2026/registration'
   weight = -70
 [[menu.menu_2026]]
-  name = 'Предварительное расписание'
-  url = '/2026/shedule_v2.pdf'
+  name = 'Расписание'
+  url = 'https://drive.google.com/file/d/1Egi8iMvVzYF-X1ycyKLRp9RbArE-rHWe/view?usp=sharing'
   weight = -60
 [[menu.menu_2026]]
   name = 'Лекционные курсы'
