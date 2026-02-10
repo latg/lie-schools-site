@@ -101,8 +101,8 @@ baseURL = "https://lie-school.ru/"
   url = '/2026/lectures'
   weight = -50
 [[menu.menu_2026]]
-  name = 'Сборник тезисов'
-  url = '/2026/12th_school_abstracts.pdf'
+  name = 'Сборник тезисов и материалы курсов'
+  url = '/2026/papers'
   weight = -40
 [[menu.menu_2026]]
   name = 'Программный и организационный комитеты'
