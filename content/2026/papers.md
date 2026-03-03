@@ -8,6 +8,12 @@ title = "Материалы школы-конференции"
 
 [Слайды доклада А.А.Гальта](https://drive.google.com/file/d/1-n-UMGX4UfeV8hTqLcL0UV9dBtL_U3Mh/view?usp=sharing).
 
+[Слайды доклада Р.С.Авдеева](https://drive.google.com/file/d/1-EDLZaJiezvxsXF2mmxWAT-bdfU8guzb/view?usp=sharing).
+
+[Слайды доклада В.Ю.Губарева](https://drive.google.com/file/d/17J8b6OVViZ2KAkidlUwj0HYEM0dqSOD8/view?usp=sharing).
+
+[Слайды доклада Н.В.Масловой](https://drive.google.com/file/d/1OpnwNihrMSb57rsyt8i2gy4k6gTy0nWp/view?usp=sharing).
+
 
 
 
