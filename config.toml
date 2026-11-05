@@ -127,3 +127,6 @@ baseURL = "https://lie-school.ru/"
   url = '/'
   weight = 0
 
+[params]
+photoBaseURL = ""
+

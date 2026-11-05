@@ -1,0 +1,56 @@
+name: Publish to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-24.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.59.1"
+
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v6
+
+      - name: Build
+        env:
+          HUGO_BASEURL: ${{ steps.pages.outputs.base_url }}/
+          HUGO_PARAMS_PHOTOBASEURL: ${{ vars.PHOTO_BASE_URL }}
+          # Include the repository subpath in root-relative links.
+          HUGO_CANONIFYURLS: "true"
+        run: |
+          if [ -z "$HUGO_PARAMS_PHOTOBASEURL" ]; then
+            echo "::error::Set the PHOTO_BASE_URL repository variable to the public photo bucket URL."
+            exit 1
+          fi
+          sh build.sh
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: ./public
+
+      - name: Deploy to Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

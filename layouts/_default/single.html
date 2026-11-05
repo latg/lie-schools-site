@@ -2,7 +2,12 @@
 <hr class="page-header-hr" /><span class="page-header">{{ .Title | safeHTML }}</span>
 <hr class="page-header-hr" />
 <div class="content">
-{{.Content}}
+{{ $content := .Content }}
+{{ if and .Params.photo .Site.Params.photoBaseURL }}
+  {{ $prefix := printf "%s/%s/" (trim .Site.Params.photoBaseURL "/") .Section }}
+  {{ $content = replace $content `="../` (printf `="%s` $prefix) }}
+{{ end }}
+{{ $content | safeHTML }}
 </div>
 {{end}}
 
