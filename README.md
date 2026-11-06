@@ -9,7 +9,7 @@ sh build.sh
 ```
 
 This builds `public/` with the existing local photo links and photo files.
-Plain `hugo` also keeps the existing behavior used by the VPS workflow.
+Plain `hugo` also keeps the existing local-photo behavior.
 
 To serve photos from an external bucket:
 
@@ -40,17 +40,14 @@ repository Actions variable **`PHOTO_BASE_URL`** to its public HTTPS URL.
 Choose **Settings → Pages → Source → GitHub Actions**. If using
 `lie-school.ru`, configure that custom domain and its DNS in Pages settings.
 
-The separate `Publish to GitHub Pages` workflow runs on pushes to `main` and
-`feature/photo-base-url`, or manually after its first run. Allow both branches
-in the `github-pages` environment's deployment rules. Branch deployments
-publish to the same Pages site. The workflow builds without the photo files
-and publishes `public/`. It uses
+The `Publish to GitHub Pages` workflow runs on pushes to `main` or manually.
+Allow `main` in the `github-pages` environment's deployment rules.
+The workflow builds without the photo files and publishes `public/`. It uses
 the URL from Pages settings and adjusts root-relative site links during
 the build. It stops with an error if `PHOTO_BASE_URL` is missing. The workflow
 does not upload photos to Cloud.ru.
 
-The VPS workflow also runs only on `main`; pushing a development branch does
-not deploy it.
+The previous VPS deployment workflow has been retired.
 
 ## Check
 

@@ -2,7 +2,7 @@ name: Publish to GitHub Pages
 
 on:
   push:
-    branches: [main, feature/photo-base-url]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
