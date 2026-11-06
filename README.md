@@ -40,8 +40,11 @@ repository Actions variable **`PHOTO_BASE_URL`** to its public HTTPS URL.
 Choose **Settings → Pages → Source → GitHub Actions**. If using
 `lie-school.ru`, configure that custom domain and its DNS in Pages settings.
 
-The separate `Publish to GitHub Pages` workflow runs on pushes to `main` or
-manually. It builds without the photo files and publishes `public/`. It uses
+The separate `Publish to GitHub Pages` workflow runs on pushes to `main` and
+`feature/photo-base-url`, or manually after its first run. Allow both branches
+in the `github-pages` environment's deployment rules. Branch deployments
+publish to the same Pages site. The workflow builds without the photo files
+and publishes `public/`. It uses
 the URL from Pages settings and adjusts root-relative site links during
 the build. It stops with an error if `PHOTO_BASE_URL` is missing. The workflow
 does not upload photos to Cloud.ru.
