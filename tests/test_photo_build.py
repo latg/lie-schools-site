@@ -5,6 +5,7 @@ import subprocess
 import tempfile
 import unittest
 from html.parser import HTMLParser
+from urllib.parse import unquote
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -83,6 +84,13 @@ class PhotoBuildTest(unittest.TestCase):
         self.assertEqual(local, self.build(wrapper=True))
         for photo in photos:
             self.assertTrue((output / photo).is_file(), photo)
+
+    def test_external_photo_links_match_source_filenames(self):
+        for links in self.build(PHOTO_BASE).values():
+            for tag, attribute, url in links:
+                if url.startswith(PHOTO_BASE + "/"):
+                    path = unquote(url[len(PHOTO_BASE) + 1:])
+                    self.assertTrue((self.site / "static" / path).is_file(), url)
 
 
 if __name__ == "__main__":
